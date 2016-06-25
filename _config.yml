@@ -1,0 +1,28 @@
+name: www.norte-a-sur.com
+favicon: null
+layout_spectrum: 0.5343364698346704
+typography_spectrum: 0.025719650089740753
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7174113285727799
+  lightness: 0.8593699594493955
+  saturation: 0.4535050003323704
+  rhythmicContrast: 0.6829578999895602
+purpose: []
