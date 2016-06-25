@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Norte A Sur ]]></title>
+        <description><![CDATA[Norte A Sur ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 25 Jun 2016 19:50:24 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Quienes Somos?]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/41a06079-bdd0-47bc-abc3-1023d5f3b1f6.jpg">]]></description>
+            <link>undefinedquienes-somos/index.html</link>
+            <guid isPermaLink="false">6ba9bfab-12ac-433b-b538-dfc08e7fefd0</guid>
+            <pubDate>Sat, 25 Jun 2016 19:50:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
