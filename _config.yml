@@ -1,7 +1,7 @@
 name: www.norte-a-sur.com
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.44765
+layout_spectrum: 0.8081
+typography_spectrum: 0.9113
 title: 'Norte A Sur '
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#00baf5'
     - '#f0b1b8'
     - '#86ddf6'
-  brandStrength: 0.7174113285727799
+  brandStrength: 0.5
   lightness: 0.8593699594493955
-  saturation: 0.4535050003323704
+  saturation: 0.5
   rhythmicContrast: 0.6829578999895602
 purpose: []
