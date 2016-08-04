@@ -4,19 +4,19 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Norte A Sur '
-datePublished: '2016-06-25T19:54:30.385Z'
-dateModified: '2016-06-25T19:53:55.716Z'
+description: ''
+datePublished: '2016-08-04T13:39:51.623Z'
+dateModified: '2016-08-04T13:39:37.000Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-25-quienes-somos.md
 authors: []
-publisher: null
+publisher: {}
+via: {}
 starred: true
 url: quienes-somos/index.html
 _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/41a06079-bdd0-47bc-abc3-1023d5f3b1f6.jpg)
-
-Norte A Sur
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a7eb7de1-a1f8-4fe9-9be1-6417eed68789.jpg)
